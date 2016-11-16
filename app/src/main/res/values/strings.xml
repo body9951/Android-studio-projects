@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Project1</string>
+    <string name="title_name">tempreture converter</string>
+    <string name="temp_hint_text">Enter tempereture</string>
+    <string name="c_button">c</string>
+    <string name="f_button">f</string>
+</resources>
